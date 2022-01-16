@@ -1,0 +1,4 @@
+﻿  Main.cpp
+D:\VisualStudio\MoonLander\MoonLander\Ship.h(22,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\VisualStudio\MoonLander\MoonLander\Explosion.h(20,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  MoonLander.vcxproj -> D:\VisualStudio\MoonLander\MoonLander\x64\Debug\MoonLander.exe
